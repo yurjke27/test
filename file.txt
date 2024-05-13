@@ -7,3 +7,12 @@ def new_func:
 	print("Hello, world")
 
 
+
+
+
+
+"""
+test
+"""
+
+
