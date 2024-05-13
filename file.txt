@@ -2,17 +2,5 @@
 test
 """
 
-import module.py
-def new_func:
-	print("Hello, world")
-
-
-
-
-
-
-"""
-test
-"""
 
 
